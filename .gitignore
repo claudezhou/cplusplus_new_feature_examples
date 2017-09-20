@@ -30,3 +30,12 @@
 *.exe
 *.out
 *.app
+
+# Visual Studio Files
+*.suo
+*.pdb
+*.idb
+*.log
+*.tlog
+*.ilk
+*.db
