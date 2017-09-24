@@ -27,6 +27,12 @@
     <ClCompile Include="auto_and_decltype_sample.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="range_for_sample.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="initializer_list_sample.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="sample.h">

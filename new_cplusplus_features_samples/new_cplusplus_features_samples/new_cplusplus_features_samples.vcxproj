@@ -144,8 +144,10 @@
   <ItemGroup>
     <ClCompile Include="auto_and_decltype_sample.cpp" />
     <ClCompile Include="constexprSample.cpp" />
+    <ClCompile Include="initializer_list_sample.cpp" />
     <ClCompile Include="main.cpp" />
     <ClCompile Include="nullptrSample.cpp" />
+    <ClCompile Include="range_for_sample.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="sample.h" />
