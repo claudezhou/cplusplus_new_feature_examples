@@ -1,3 +1,4 @@
+#include "sample.h"
 #include <iostream>
 
 void foo(int)

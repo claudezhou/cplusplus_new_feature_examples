@@ -3,8 +3,10 @@
 
 int main(int argc, char** argv)
 {
-    nullptrSample();
-    constexprSample();
+    //nullptrSample();
+    //constexprSample();
+    //autoSample();
+    decltype_sample();
 
     getchar();
     return 0;

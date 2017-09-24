@@ -24,6 +24,9 @@
     <ClCompile Include="constexprSample.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="auto_and_decltype_sample.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="sample.h">

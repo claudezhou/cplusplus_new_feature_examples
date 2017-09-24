@@ -1,3 +1,4 @@
+#include "sample.h"
 #include <iostream>
 // constexpr tells compiler to check if this is a value can be decided at compiler time
 // which optimize the runtime performance.

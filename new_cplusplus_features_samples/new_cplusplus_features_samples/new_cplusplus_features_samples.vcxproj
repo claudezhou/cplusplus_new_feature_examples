@@ -142,6 +142,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="auto_and_decltype_sample.cpp" />
     <ClCompile Include="constexprSample.cpp" />
     <ClCompile Include="main.cpp" />
     <ClCompile Include="nullptrSample.cpp" />

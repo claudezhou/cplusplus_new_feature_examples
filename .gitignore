@@ -40,3 +40,7 @@
 *.ilk
 *.db
 *.opendb
+Debug
+debug
+Release
+release
